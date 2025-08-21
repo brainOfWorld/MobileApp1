@@ -1,16 +1,51 @@
 # mobileapp1
 
-A new Flutter project.
+# 📚 Student Information Manager App
 
-## Getting Started
+A Flutter-based mobile application designed to manage and display student details efficiently.  
+This project was developed as part of a coursework assignment.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 1. Welcome Dashboard
+- Displays **student name**, **course**, and **university**.
+- Styled with padding, text alignment, and custom fonts for a visually appealing UI.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 2. Interactive Notification
+- Includes a **“Show Alert”** button.
+- Displays a Snackbar with a personalized welcome message:
+  > "Hello, [Your Name]! Welcome to the Student Info Manager."
+
+### 3. Student Counter
+- Counter to track the number of students enrolled.
+- **+** and **-** buttons to increase/decrease count.
+- Current count displayed prominently.
+
+### 4. Student Login Form
+- Login form with **Email** and **Password** fields.
+- Validation:
+  - Email must contain `@`.
+  - Password must be at least 6 characters.
+- Displays clear error messages on validation failure.
+
+### 5. Profile Picture Display
+- Displays a **profile picture** fetched from an online image URL.
+- Resizes properly across different screen sizes for responsiveness.
+
+---
+
+## 🛠️ Tech Stack
+- **Framework**: Flutter
+- **Language**: Dart
+- **Platform**: Android & iOS
+
+---
+
+## 📸 Screenshots (optional)
+_Add screenshots of your app’s UI here once available._
+
+---
+
+## 📂 Project Structure
