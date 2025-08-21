@@ -43,9 +43,35 @@ This project was developed as part of a coursework assignment.
 
 ---
 
-## 📸 Screenshots (optional)
-_Add screenshots of your app’s UI here once available._
+## 📂 Project Structure
+MobileApp1/
+│-- lib/
+│ ├── main.dart
+│ ├── widgets/
+│ └── screens/
+│-- android/
+│-- ios/
+│-- pubspec.yaml_
+
 
 ---
 
-## 📂 Project Structure
+## ▶️ Getting Started
+
+### Prerequisites
+- Install [Flutter](https://docs.flutter.dev/get-started/install)
+- Install [Android Studio](https://developer.android.com/studio) or [VS Code](https://code.visualstudio.com/)
+
+### Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/brainOfWorld/MobileApp1.git
+
+👨‍💻 Author
+Name: [Owusu Emmanuel]
+
+Course: [Mobile Application]
+
+University: [University Of Energy & Natural Resourses]
+
+
